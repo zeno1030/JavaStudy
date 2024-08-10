@@ -16,6 +16,7 @@ public class MainV1 {
 			networkService.sendMessage(input);
 			System.out.println();
 		}
+		
 		System.out.println("프로그램을 정상종료 합니다.");
 	}
 }
